@@ -11,3 +11,5 @@ body{padding: 2%;}
 #personna{display: block; width: 100%; height: 300px;}
 #help-list > div{margin-bottom: 2em; font-size: 1.4em;}
 #agenda-list{font-size: 1.4em;}
+#agenda-proposal-list{margin-bottom: 1em;}
+#agenda-proposal-list > div {margin: 0.5em 0.2em;}
